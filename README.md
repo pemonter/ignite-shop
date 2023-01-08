@@ -16,7 +16,7 @@ git clone https://github.com/pemonter/ignite-shop.git
 
 Após terminado o clone do projeto, siga os seguintes passos no terminal:
 ```
-cd ignite=shop
+cd ignite-shop
 npm i
 ```
 
